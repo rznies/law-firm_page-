@@ -1,0 +1,7 @@
+{
+  "name": "Advk - Strategic Legal Counsel",
+  "description": "High-end legal services platform with a sophisticated dark aesthetic and AI-powered consultation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
